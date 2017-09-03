@@ -58,7 +58,7 @@ portfolio. Let's get started!
 2. Click on "Upload files."
 
 3. Either drag your file in the designated section on the repository or click "choose your files" in order to select your 
-   map from a folder. Make sure that your file is either a JPG, GIF, PNG, or PDF file. ![](img/upload.JPG)
+   map from a folder. Make sure that your file is a PDF file which has your map along with a description of your map. ![](img/upload.JPG)
    
 4. Make sure to write a comment on what you did in the "Commit changes" section and press "Commit changes."
 
