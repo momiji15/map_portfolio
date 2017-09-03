@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Basic GitHub Tutorial\"\nauthor: \"Dorris Scott\"\ndate: \"August 30, 2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n# Basic Guide on GitHub\nThe purpose of this tutorial is to get you familiar with the basics of GitHub in order to create and update your map\nportfolio. Let's get started!\n\n\n## Signing up for an account\n1. The first thing that you need to do if you haven't already done it is to sign up for a GitHub account. Go   \n   [here](https://github.com/) in order to create a Github account. If you need more detailed information to walk you \n   through creating an account, please follow steps 1 to three of [Signing up for a new GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/).\n\n\n## Creating a repository\n1. After making your account, you will need to make a repository for your portfolio. Think of your repository as a \n   container in which you will hold your project. Click on the plus sign on the top right-hand corner and click on \"new \n   repository.\" ![](img/repository.JPG)\n   \n2. Name the repository \"map_portfolio\" and make sure to make the repository public.Also check \"Initalize this repository \n   with a README\" which will create a copy of the repository on your computer. By doing this, you are able to track your\n   changes in GitHub. ![](img/repository2.JPG)\n   \n   \n## Updating your README file\n1. On your repository page, click on \"README.md.\"\n\n2. Click on the pencil icon on the middle right corner of the page in order to edit the README document. ![](img/repository3.JPG)\n\n3. Change \"map_portfolio\" to \"Map Portfolio\". Notice that the \"#\" indicates a header. \"##\" will create a smaller header\n   than \"#\" and \"###\" will create an even smaller header than \"##\". Make sure to put a space between the \"#\" and the word.\n   You will know you did it properly when you see the text bolded out.\n\n4. Write a description about your map portfolio if you have not already done so. \n\n5. Type \"## Table of Contents\" in order to create a table of contents section on your document.\n\n6. List the Title of your map along with the accompanying file name. ![](img/repository4.JPG)\n\n7. Once you are finished, scroll down and in the \"Commit Changes\" section, write a comment about what you did. For example \"updated table of contents.\" It is always good to make comments so you can keep up with what you did. \n\n8. Press \"Commit Changes\" once you are finished writing your comments about what you did. ![](img/repository5.JPG)\n\n9. Your README document should look something like this: ![](img/readme.JPG)\n\n\n## Uploading your map on GitHub\n1. Click on \"map_portfolio\" on the top left-hand side of the page.\n\n2. Click on \"Upload files.\"\n\n3. Either drag your file in the designated section on the repository or click \"choose your files\" in order to select your \n   map from a folder. Make sure that your file is either a JPG, GIF, PNG, or PDF file. ![](img/upload.JPG)\n   \n4. Make sure to write a comment on what you did in the \"Commit changes\" section and press \"Commit changes.\"\n\n## Deleting your map on GitHub\n1. Click on the trash can icon on the top right-hand corner.\n\n2. You will be re-directed to the \"Commit changes\" page.  Make sure that you write a comment that you deleted the map.\n\n3. Press \"Commit changes\". ![](img/delete.JPG)\n\n\n\n\n\n",
+    "created" : 1504107520704.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3413155272",
+    "id" : "C9331C57",
+    "lastKnownWriteTime" : 1504407195,
+    "last_content_update" : 1504407195234,
+    "path" : "~/TA/Fall 2017/Tutorials/githubtutorial/githubtutorial1.Rmd",
+    "project_path" : "githubtutorial1.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
